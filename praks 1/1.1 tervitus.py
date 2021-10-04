@@ -1,0 +1,2 @@
+#komentaar
+print ("tere maailm")
